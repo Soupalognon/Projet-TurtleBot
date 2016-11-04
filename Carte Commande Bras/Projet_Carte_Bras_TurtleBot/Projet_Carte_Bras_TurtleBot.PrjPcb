@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Projet_Carte_Bras_TurtleBot
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -39,23 +39,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\Altium Projects\Librairie Perso\Footprint_Gabriel.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ONAEMTSV
-
-[Document2]
 DocumentPath=Carte_Controle_Bras.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,24 +55,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VRRQLOXF
 
-[Document3]
-DocumentPath=..\..\..\..\Altium Projects\Librairie Perso\lib_Gabriel.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ANNBCBRT
-
-[Document4]
+[Document2]
 DocumentPath=Standard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +83,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Projet_Carte_Bras_TurtleBot
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
