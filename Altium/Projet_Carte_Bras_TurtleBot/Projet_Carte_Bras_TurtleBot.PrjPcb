@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Projet_Carte_Bras_TurtleBot
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -151,7 +151,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Projet_Carte_Bras_TurtleBot
 
 [OutputGroup1]
 Name=Netlist Outputs
